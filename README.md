@@ -1,6 +1,14 @@
-# 🛒 Superstore Sales Analysis — Power BI
+# 🛒 Superstore Sales Overview — Power BI
 
 An interactive Power BI report for analysing sales, profit, quantity and discounts using the Sample Superstore dataset.
+
+## 🎥 Project Video Presentation
+
+Watch my Superstore Sales Analysis project presentation.
+
+
+"▶️ Click here to watch the video" (https://youtu.be/GG8UWps0_RY)
+
 
 ## 📊 Dashboard Preview
 
@@ -121,3 +129,8 @@ The dark background is a design variation from the assignment's specified light-
 6. Open Order Details to view detailed records.
 
 For data refresh, update the CSV source path in Power Query to the file's location on your computer.
+
+
+## AUTHOR❇️
+
+# RAKESH PEDDURI
