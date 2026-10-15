@@ -4,7 +4,7 @@ An interactive Power BI report for analysing sales, profit, quantity and discoun
 
 ## 🎥 Project Video Presentation
 
-Watch my Superstore Sales Analysis project presentation.
+Watch my Superstore Sales overview project presentation.
 
 
 "▶️ Click here to watch the video" (https://youtu.be/GG8UWps0_RY)
